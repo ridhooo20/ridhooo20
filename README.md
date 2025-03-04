@@ -5,7 +5,7 @@ Hey there! I'm a tech explorer diving deep into the realms of **Cyber Security**
 
 ## 🛠️ What I’m Crafting & Cracking
 - **Cyber Security** 🕵️‍♂️: Ethical hacking, web security, and penetration testing.
-- **Web Development** 🌐: Crafting sleek UI/UX with **React & Next.js**, and securing the backend with **Node.js & Express**.
+- **Web Development** 🌐: Crafting sleek UI/UX with **React**, and securing the backend with **Node.js & Express**.
 - **Linux & Networking** 🖥️: Because every hacker & developer needs a strong foundation!
 
 ## 🎵 Vibes While Coding
