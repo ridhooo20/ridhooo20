@@ -12,7 +12,7 @@ Hey there! I'm a tech explorer diving deep into the realms of **Cyber Security**
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
 
 ## 🔗 Let’s Connect & Collaborate!
-- 🌍 **Portfolio**: [https://portofolio-ridho-blue.vercel.app](https://portofolio-ridho-blue.vercel.app)
+- 🌍 **Portfolio**: [https://portofolioridho.vercel.app](https://portofolioridho.vercel.app)
 - 📧 **Email**: [githubridho@gmail.com](mailto:githubridho@gmail.com)
 - 🐦 **Instagram**: [@ridhomulya_](https://instagram.com/ridhomulya_)
 - 💼 **LinkedIn**: [Ridho Mulya](https://linkedin.com/in/ridho-mulya)
